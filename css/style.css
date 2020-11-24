@@ -1,0 +1,21 @@
+.parallax-container {
+	height: 20%;
+}
+
+.parallax-container h3 {
+	text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.parallax-container img {
+	filter: drop-shadow(1px 1px 3px rgba(0, 0, 0, 0.5));
+}
+
+.parallax {
+	filter: grayscale(70%) opacity(.5);
+}
+
+
+section, footer {
+	padding: 20px 0;
+}
+
